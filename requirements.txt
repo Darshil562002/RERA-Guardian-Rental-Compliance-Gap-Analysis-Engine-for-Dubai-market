@@ -1,0 +1,8 @@
+pandas
+numpy
+sqlalchemy
+plotly
+dash
+jupyter-dash
+transformers
+torch

@@ -51,4 +51,4 @@ This repository contains a comprehensive Jupyter Notebook that simulates an end-
 
 ## Disclaimer
 
-This project uses **synthetic data** for demonstration and ideation purposes. It is not connected to the official Dubai Land Department (DLD) or RERA APIs.
+This project uses **synthetic data** for demonstration purposes. It is not connected to the official Dubai Land Department (DLD) or RERA APIs.
