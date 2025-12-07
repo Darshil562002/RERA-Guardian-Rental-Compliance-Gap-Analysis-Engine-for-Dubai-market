@@ -14,12 +14,6 @@ This repository contains a comprehensive Jupyter Notebook that simulates an end-
 3.  **Analytics**: Calculates "Compliance Gaps" and flags high-risk buildings.
 4.  **Visualization**: Interactive **Plotly** charts and a built-in **Dash** application ("Negotiation Cockpit").
 
-## Repository Structure
-
-*   `RERA_Guardian.ipynb`: The main notebook containing the entire project logic.
-*   `generate_notebook.py`: A Python script used to programmatically generate the notebook (useful for reproduction).
-*   `requirements.txt`: List of Python dependencies.
-
 ## Installation & Usage
 
 1.  **Clone the repository**:
@@ -46,7 +40,7 @@ This repository contains a comprehensive Jupyter Notebook that simulates an end-
 *   **Python 3.8+**
 *   **Pandas & NumPy**: Data manipulation.
 *   **SQLite**: Local relational database.
-*   **HuggingFace Transformers**: NLP for sentiment analysis.
+*   **HuggingFace Transformers**: NLP for sentiment analysis.(distilbert/distilbert-base-uncased-finetuned-sst-2-english)
 *   **Plotly & Dash**: Interactive visualizations and dashboarding.
 
 ## Disclaimer
